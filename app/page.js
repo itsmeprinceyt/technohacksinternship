@@ -68,7 +68,7 @@ export default function Home() {
                   <strong>GitHub Link:</strong>{" "}
                   <a
                     href={project.github}
-                    className="text-blue-500 hover:underline"
+                    className="text-blue-500 hover:underline text-xs sm:text-base"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -79,7 +79,7 @@ export default function Home() {
                   <strong>Deployed Link:</strong>{" "}
                   <a
                     href={project.deployed}
-                    className="text-blue-500 hover:underline"
+                    className="text-blue-500 hover:underline text-xs sm:text-base"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -90,7 +90,7 @@ export default function Home() {
                   <strong>Explanation Link:</strong>{" "}
                   <a
                     href={project.explanation}
-                    className="text-blue-500 hover:underline"
+                    className="text-blue-500 hover:underline text-xs sm:text-base"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -102,7 +102,7 @@ export default function Home() {
                     <strong>{project.extra.label}:</strong>{" "}
                     <a
                       href={project.extra.url}
-                      className="text-blue-500 hover:underline"
+                      className="text-blue-500 hover:underline text-xs sm:text-base"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
