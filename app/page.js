@@ -4,7 +4,7 @@ export default function Home() {
       title: "Task 1: Landing Page [Kreo Mouse]",
       github: "https://github.com/itsmeprinceyt/kreomouse_nextjs",
       deployed: "https://kreomouse-nextjs.vercel.app/",
-      explanation: "",
+      explanation: "https://youtu.be/XBjNNUiJzOA",
       extra: {
         label: "Live Development Stream",
         url: "https://www.youtube.com/live/PnekbuSgyBU",
